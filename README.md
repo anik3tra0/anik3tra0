@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-Building SRE tools at [Last9.io](https://last9.io)<br>
-
-Building modern [Time Series Data Warehouse](https://last9.io/levitate-tsdb)<br/>
+Head of SRE @ [tenderd.com](https://tenderd.com)<br>
 
 
 ## 🌐 Socials:
