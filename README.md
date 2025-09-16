@@ -1,6 +1,5 @@
 # 💫 About Me:
-
-Head of SRE @ [tenderd.com](https://tenderd.com)<br>
+Programmer
 
 
 ## 🌐 Socials:
